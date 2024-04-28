@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a recipe website. The homepage contains links to three recipe pages. Each recipe page has an image of the dish, a short description, the required ingredients, and the steps to make them. The skills I demonstrated for this are including text, images, and links in an HTML webpage. All recipes on this website are from allrecipes.com.
