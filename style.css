@@ -1,0 +1,39 @@
+* {
+    font-family : "Garamond", sand-serif;
+}
+
+h1 {
+    font-family : "Brush Script MT", "Garamond", sand-serif;
+    font-size : 50px;
+    font-weight : bold;
+    color : #5D3FD3;
+}
+
+h2 {
+    font-size : 25px;
+    font-weight : 500;
+    color : red;
+}
+
+p,
+ul,
+ol {
+    font-size : 20px;
+    font-weight : 350;
+}
+
+a {
+    font-size : 25px;
+}
+
+a:link {
+    color : red;
+}
+
+a:visited {
+    color : #367588;
+}
+
+a:hover {
+    color : #EBA832;
+}
