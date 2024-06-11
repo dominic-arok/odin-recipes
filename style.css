@@ -7,6 +7,43 @@ h1 {
     font-size : 50px;
     font-weight : bold;
     color : #5D3FD3;
+    text-align : center;
+}
+
+.card {
+    width: 400px;
+    background: #5D3FD3;
+    margin: 0 auto;
+    padding: 8px;
+  }
+
+.one {
+    background: #e3f4ff;
+    font-size : 16px;
+    margin-top: 8px;
+    margin-left : 8px;
+    margin-right : 8px;
+    padding: 8px;
+    text-align : center;
+}
+
+.two {
+    background: #e3f4ff;
+    font-size : 16px;
+    margin-left : 8px;
+    margin-right : 8px;
+    padding: 8px;
+    text-align : center;
+}
+
+.three {
+    background: #e3f4ff;
+    font-size : 16px;
+    margin-bottom: 8px;
+    margin-left : 8px;
+    margin-right : 8px;
+    padding: 8px;
+    text-align : center;
 }
 
 h2 {
